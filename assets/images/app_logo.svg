@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="512" height="120" viewBox="0 0 512 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="75" viewBox="0 0 320 75" xmlns="http://www.w3.org/2000/svg">
   <g>
-    <polygon points="12.00,45.96 66.29,45.96 66.29,78.72 21.36,78.72" fill="#40aa54"/>
-    <polygon points="16.68,31.92 56.93,31.92 70.97,45.96 12.00,45.96" fill="#40aa54"/>
-    <polygon points="66.29,55.32 85.01,64.68 66.29,71.23" fill="#40aa54"/>
-    <rect x="19.49" y="36.60" width="31.82" height="16.85" rx="4.00" ry="4.00" fill="rgba(255,255,255,0.55)"/>
-    <circle cx="26.04" cy="80.59" r="9.36" fill="#373737"/>
-    <circle cx="56.93" cy="80.59" r="9.36" fill="#373737"/>
-    <circle cx="80.33" cy="62.81" r="4.68" fill="#40aa54"/>
+    <polygon points="7.50,28.72 41.43,28.72 41.43,49.20 13.35,49.20" fill="#40aa54"/>
+    <polygon points="10.43,19.95 35.58,19.95 44.35,28.72 7.50,28.72" fill="#40aa54"/>
+    <polygon points="41.43,34.58 53.13,40.43 41.43,44.52" fill="#40aa54"/>
+    <rect x="12.18" y="22.88" width="19.89" height="10.53" rx="4.00" ry="4.00" fill="rgba(255,255,255,0.55)"/>
+    <circle cx="16.27" cy="50.37" r="5.85" fill="#373737"/>
+    <circle cx="35.58" cy="50.37" r="5.85" fill="#373737"/>
+    <circle cx="50.20" cy="39.26" r="2.93" fill="#40aa54"/>
   </g>
 
-  <g font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="700" font-size="52.80" dominant-baseline="hanging">
-    <text x="120.00" y="24.00">
+  <g font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="700" font-size="33.00" dominant-baseline="hanging">
+    <text x="75.00" y="15.00">
       <tspan fill="#40aa54">Ambani</tspan><tspan fill="#373737"> Yatri</tspan>
     </text>
   </g>
 
-  <g font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="400" font-size="24.00" dominant-baseline="hanging">
-    <text x="120.00" y="81.60" fill="#373737">your daily needs</text>
+  <g font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="400" font-size="15.00" dominant-baseline="hanging">
+    <text x="75.00" y="51.00" fill="#373737">your daily needs</text>
   </g>
 </svg>

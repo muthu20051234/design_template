@@ -5,21 +5,21 @@ class OnboardingData {
   static List<OnboardingModel> items = [
     OnboardingModel(
       imageUrl: AppImages.onboarding1,
-      headline: 'Browse all the category',
+      headline: 'Browse all the Travels',
       description:
-          'In aliquip aute exercitation ut et nisi ut mollit. Deserunt dolor elit pariatur aute .',
+          'Fast pick-up,honest pricing,Safe travel-Everything you need for stress-free rides .',
     ),
     OnboardingModel(
       imageUrl: AppImages.onboarding2,
       headline: 'Amazing Discounts & Offers',
       description:
-          'In aliquip aute exercitation ut et nisi ut mollit. Deserunt dolor elit pariatur aute .',
+          'Daily Rides , Daily Saving , Ride More Pay Less .',
     ),
     OnboardingModel(
       imageUrl: AppImages.onboarding3,
-      headline: 'Delivery in 30 Min',
+      headline: 'Fast Ride Pickup in 5 Min',
       description:
-          'In aliquip aute exercitation ut et nisi ut mollit. Deserunt dolor elit pariatur aute .',
+          'Speed, safety, savings—every ride counts.Verified drivers, lightning-fast service.',
     ),
   ];
 }

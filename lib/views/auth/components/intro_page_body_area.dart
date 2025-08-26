@@ -28,7 +28,7 @@ class IntroPageBodyArea extends StatelessWidget {
                         fontWeight: FontWeight.bold, color: Colors.black),
                   ),
                   Text(
-                    'E-Grocery',
+                    'Ambani Yatri',
                     style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                         fontWeight: FontWeight.w700, color: AppColors.primary),
                   ),

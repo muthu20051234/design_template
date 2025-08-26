@@ -40,7 +40,7 @@ class VerifiedDialog extends StatelessWidget {
             ),
             const SizedBox(height: AppDefaults.padding),
             const Text(
-              'Hurrah!!  You have successfully\nverified the account.',
+              'Super!!  You have successfully\nverified the account.',
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: AppDefaults.padding),
@@ -49,7 +49,7 @@ class VerifiedDialog extends StatelessWidget {
               child: ElevatedButton(
                 onPressed: () =>
                     Navigator.pushNamed(context, AppRoutes.entryPoint),
-                child: const Text('Browse Home'),
+                child: const Text('Congratulations'),
               ),
             ),
           ],

@@ -102,7 +102,7 @@ class _AppLogoAndHeadline extends StatelessWidget {
               ?.copyWith(fontWeight: FontWeight.bold),
         ),
         Text(
-          'E-Grocery',
+          'Ambani Yarri',
           style: Theme.of(context).textTheme.headlineSmall?.copyWith(
                 fontWeight: FontWeight.bold,
                 color: AppColors.primary,
